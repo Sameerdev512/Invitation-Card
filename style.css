@@ -248,6 +248,10 @@ margin-top :24px ;
     width: 18vw;
 }
 
+.third_function{
+    margin-top:30px;
+}
+
 .third_line::after {
     background: #fff;
     content: '§';
@@ -295,6 +299,12 @@ margin-top :24px ;
     text-shadow: rgb(90, 2, 2) 1px 0 30px;
     color: rgb(250, 239, 239);
     margin-top:5px;
+}
+
+.home-event{
+    font-family: "Rozha One", serif;
+        text-shadow: rgb(90, 2, 2) 1px 0 30px;
+        font-size :28px ;
 }
 
 .event{
@@ -534,6 +544,10 @@ margin-top :24px ;
     img {
         width: 180px;
         height: 180px;
+    }
+
+    .third_function{
+        margin-top: 0px;
     }
 
     .head_name {
