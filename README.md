@@ -1,4 +1,4 @@
-# 🎉 Traditional Indian Wedding Invitation Card
+<img width="1523" height="1007" alt="image" src="https://github.com/user-attachments/assets/a4818f54-b5a1-49b4-a77a-6eb674ad9fc9" /># 🎉 Traditional Indian Wedding Invitation Card
 
 ## 📖 Description
 A beautifully designed traditional Indian wedding invitation card created using pure HTML and CSS. This elegant digital invitation replicates the authentic look of classic Indian wedding cards.
@@ -41,7 +41,8 @@ Free to use and modify for personal projects.
 
 <img width="1533" height="886" alt="image" src="https://github.com/user-attachments/assets/4e9279e4-2a6d-4f2c-93a1-1475ff1aa691" />
 <img width="1523" height="1007" alt="image" src="https://github.com/user-attachments/assets/c21b7fe3-16c8-40ce-9611-110bad75d766" />
-![Uploading image.png…]()
+<img width="1523" height="1007" alt="image" src="https://github.com/user-attachments/assets/1fad23da-4a89-4adb-8017-ab436369c8d9" />
+
 
 
 
