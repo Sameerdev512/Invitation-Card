@@ -39,7 +39,7 @@ A beautifully designed traditional Indian wedding invitation card created using 
 ## 📝 License
 Free to use and modify for personal projects.
 
-<img width="1533" height="886" alt="image" src="https://github.com/user-attachments/assets/4e9279e4-2a6d-4f2c-93a1-1475ff1aa691" />
+<img width="1530" height="1034" alt="{2A427A67-E4C5-4F06-96F7-FB82C080A8DC}" src="https://github.com/user-attachments/assets/7dbdbd9f-97e1-45cd-a0b4-b678af11d4cc" />
 <img width="1523" height="1007" alt="image" src="https://github.com/user-attachments/assets/c21b7fe3-16c8-40ce-9611-110bad75d766" />
 <img width="1523" height="1007" alt="image" src="https://github.com/user-attachments/assets/1fad23da-4a89-4adb-8017-ab436369c8d9" />
 
